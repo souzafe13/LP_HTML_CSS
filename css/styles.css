@@ -91,4 +91,34 @@
    /* font-style: italic; */
    line-height: 1.6; 
 }
+
+.WhenWereHighTitulo{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    /* font-style: italic; */
+    font-weight: 650;
+}
+
+.WhenWereHighLyrics{
+   border-radius: 5ch;
+    float: right;
+    height: 250px;
+}
  
+.DiscografiaWhenWereHigh{
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    border-radius: 6ch;
+    display: inline-block;
+    vertical-align: text-top;
+    background-color: #3f0e0e;
+    border-radius: 6ch;
+    width: 1190px;
+    margin: auto;
+    font-family: 'Pinyon Script', cursive;
+    text-align: justify;
+    font-size: 18.5px;
+    /* font-style: italic; */
+    line-height: 1.6;   
+}
