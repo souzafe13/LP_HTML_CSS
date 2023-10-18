@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+.titulo{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    /* font-style: italic; */
+    font-weight: 650;
+}
+
+.resumo{
+    /* height: 200px; */
+    background-color: #3f0e0e;
+    /* border-style: solid;  */
+    border-radius: 6ch;
+    display: inline-block;
+    vertical-align: text-top;
+    width: 1190px;
+    margin: auto;
+    font-family: 'Pinyon Script', cursive;
+    text-align: justify;
+    font-size: 18.5px;
+    /* font-style: italic; */
+    line-height: 1.6;
+}
+
+.LauraPrimeiraImagem{
+    border-radius: 5ch;
+    float: left;
+    height: 550px;
+}
+
+.LostOnYouTitulo{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    /* font-style: italic; */
+    font-weight: 650;
+}
+
+.LostOnYouLyrics{
+    border-radius: 5ch;
+    float: right;
+    height: 250px;
+}
+.DiscografiaLostOnYou{
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    border-radius: 6ch;
+    display: inline-block;
+    vertical-align: text-top;
+    background-color: #3f0e0e;
+    border-radius: 6ch;
+    width: 1190px;
+    margin: auto;
+    font-family: 'Pinyon Script', cursive;
+    text-align: justify;
+    font-size: 18.5px;
+    /* font-style: italic; */
+    line-height: 1.6;
+}
+
+.HoldTheLightTitulo{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    /* font-style: italic; */
+    font-weight: 650;
+}
+
+.HoldTheLightLyrics{
+   border-radius: 5ch;
+    float: left;
+    height: 250px;
+}
+
+.DiscografiaHoldTheLight{
+   font-family: 'Montserrat', sans-serif;
+   text-align: justify;
+   border-radius: 6ch;
+   display: inline-block;
+   vertical-align: text-top;
+   background-color: #3f0e0e;
+   border-radius: 6ch;
+   width: 1190px;
+   margin: auto;
+   font-family: 'Pinyon Script', cursive;
+   text-align: justify;
+   font-size: 18.5px;
+   /* font-style: italic; */
+   line-height: 1.6; 
+}
+ 
